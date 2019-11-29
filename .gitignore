@@ -1,0 +1,6 @@
+# Project exclude paths
+/springcloud-eureka/eureka-client01/target/
+/springcloud-eureka/eureka-client02/target/
+/springcloud-eureka/eureka-server01/target/
+/springcloud-eureka/eureka-server02/target/
+/springcloud-eureka/target/
